@@ -5,7 +5,7 @@
 
 **Tara** is an AI-powered event planning partner for college students and campus organizations. Designed with roleplay and real-world strategy in mind, Tara helps users turn loose ideas into unforgettable campus experiences—be it a hackathon, cultural night, speaker panel, or fundraising mixer.
 
-Built on GPT-4o and hosted on Poe.com, Tara doesn’t just answer questions—she **co-plans** with you. From vision mapping to logistics, outreach to risk-proofing, Tara brings the mindset of a professional coordinator with the vibe of a creative teammate.
+Built on GPT-4.1 and hosted on Poe.com, Tara doesn’t just answer questions—she **co-plans** with you. From vision mapping to logistics, outreach to risk-proofing, Tara brings the mindset of a professional coordinator with the vibe of a creative teammate.
 
 ---
 
@@ -174,7 +174,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Acknowledgements
 
-* **LLM**: Powered by GPT-4o via Poe.com
+* **LLM**: Powered by GPT-4.1 via Poe.com
 * **Campus Insights**: Inspired by real-life orgs and student leaders
 * **Creative Event Planning**: Shaped by frameworks used in student governments, residence life, and community programs
 
